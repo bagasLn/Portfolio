@@ -79,7 +79,7 @@ const Contact = () => {
             >
               <h3 className="text-4xl text-accent">Lets go to work together</h3>
               <p className="text-white/50">
-                Lorem ipsum dolor sit amet consectetur, adipisicing elit. Praesentium odit enim voluptatem illum id.
+                Let’s turn your ideas into reality. Share your contact details, and let’s build something amazing together.
               </p>
               {/* Input Fields */}
               <div className="grid grid-cols-1 md:grid-cols-2 gap-6">

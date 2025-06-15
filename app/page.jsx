@@ -45,7 +45,7 @@ const Home = () => {
          <h1 className="h1">Hello I'm <br /> <span className="text-accent">Bagas Apriliani</span>
          </h1>
          <p className="max-w-[500px] mb-9 text-white/80">
-         seorang Junior  yang terus belajar | suka dengan front-end dan minat khusus
+         seorang junior yang terus belajar | suka dengan front-end dan minat khusus
          di bagian back-end | terus eksplorasi teknologi modern agar tetap berkembang 🚀
          </p>
       <div className="flex flex-col xl:flex-row items-center gap-8">
