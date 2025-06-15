@@ -30,7 +30,7 @@ const projects = [
             {name: "Tailwind.css"},
             {name: "Html 5"}
         ], 
-        image: "/assets/work/3.png",
+        image: "/assets/3.png",
         live: "",
         github: "",
     },
@@ -44,7 +44,7 @@ const projects = [
             {name: "Web API"},
             {name: "Asynchronous JavaScript"}
         ], 
-        image: "/assets/work/4.png",
+        image: "/assets/4.png",
         live: "",
         github: "",
     },
