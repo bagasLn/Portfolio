@@ -49,7 +49,7 @@ const Home = () => {
          di bagian back-end | terus eksplorasi teknologi modern agar tetap berkembang 🚀
          </p>
       <div className="flex flex-col xl:flex-row items-center gap-8">
-           <a href="/assets/cv.pdf" target="_blank" rel="noopener noreferrer">
+           <a href="/assets/bagas CV.pdf" target="_blank" rel="noopener noreferrer">
             <Button variant="outline"size="lg" className="uppercase flex items-center gap-2">
               <span> Donwlaod CV</span>
               <FiDownload className="text-xl"></FiDownload>
