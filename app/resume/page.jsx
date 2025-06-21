@@ -35,8 +35,8 @@ const experience = {
     description: "",
     items: [
         {
-            company: "PT Bank Mandiri (Persero) Tbk (BMRI)",
-            position: "IT Infra",
+            company: "PT Bank Mandiri (Persero)",
+            position: "IT Infrastructure",
             jobdescription: "Branch Data System | Environment testing | Release Control Board",
             duration: "September 2024 - Present",
         },
